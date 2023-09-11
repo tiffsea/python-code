@@ -1,5 +1,5 @@
 # python-code
-Various python code snippets, tips, syntax, functions, etc.
+Various python code snippets, tips, syntax, functions etc.
 
 ## Demos and tutorial videos
 Note: Demo code is located in `demos` directory.
